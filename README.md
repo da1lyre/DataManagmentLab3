@@ -1,4 +1,4 @@
-# УД Лабораторная работа 3
+<img width="223" height="99" alt="изображение" src="https://github.com/user-attachments/assets/748381bf-4ddd-4b34-b744-59eb81b53552" /><img width="624" height="218" alt="изображение" src="https://github.com/user-attachments/assets/1a67098c-e972-4d18-beb2-4fb7026edbee" /># УД Лабораторная работа 3
 
 ## Описание схемы БД
 БД представлена 4-мя таблицами:
@@ -33,6 +33,7 @@
 ##### Решение:
 [SQL код](./Level1/task1.sql)
 ##### Результат:
+Были созданы 4 таблицы, согласно условию.
 
 ---
 
@@ -45,6 +46,7 @@
 [SQL код](./Level1/task2.sql)
 
 ##### Результат:
+Были вставлены во все таблицы указанные данные с помощью команд INSERT.
 
 ---
 
@@ -57,6 +59,10 @@
 [SQL код](./Level1/task3.sql)
 
 ##### Результат:
+<img width="631" height="188" alt="изображение" src="https://github.com/user-attachments/assets/5e844cc0-d305-40c2-b316-a68d6d1e693b" />
+<img width="624" height="218" alt="изображение" src="https://github.com/user-attachments/assets/7691cd1c-e7b7-4461-8234-499e1300af2c" />
+<img width="750" height="235" alt="изображение" src="https://github.com/user-attachments/assets/32857f35-7cac-4df1-b84b-3e9273b5b1ed" />
+<img width="809" height="529" alt="изображение" src="https://github.com/user-attachments/assets/4a8d99d0-a0f1-4955-9f01-96ef175d5f04" />
 
 ---
 
@@ -72,6 +78,9 @@
 [SQL код](./Level1/task4.sql)
 
 ##### Результат:
+<img width="195" height="186" alt="изображение" src="https://github.com/user-attachments/assets/7f1b2fc1-fe78-46ce-8634-ecbc975fc83b" />
+<img width="218" height="186" alt="изображение" src="https://github.com/user-attachments/assets/6f63e299-48ce-47ae-a52f-69dd5f493fd9" />
+<img width="127" height="192" alt="изображение" src="https://github.com/user-attachments/assets/0b7c44de-0a12-4064-9d87-1d31c7968fb6" />
 
 ---
 
@@ -87,6 +96,9 @@
 [SQL код](./Level1/task5.sql)
 
 ##### Результат:
+<img width="341" height="77" alt="изображение" src="https://github.com/user-attachments/assets/a2629d1e-1bb6-4bd8-bb1a-0242e058de91" />
+<img width="223" height="99" alt="изображение" src="https://github.com/user-attachments/assets/1ff3e4f8-83c8-426a-a4d6-20a35ce97cff" />
+<img width="335" height="238" alt="изображение" src="https://github.com/user-attachments/assets/7512d91d-88ec-457e-9272-71539b3626dd" />
 
 ---
 
@@ -96,11 +108,13 @@
 Для каждой покупки вывести следующие данные:
 - фамилию садовода и название питомника, где производилась покупка;
 - дату, фамилию садовода, льготу, название и количество купленных растений.
-[SQL код](./Level1/task6.sql)
 
 ##### Решение:
+[SQL код](./Level1/task6.sql)
 
 ##### Результат:
+<img width="532" height="528" alt="изображение" src="https://github.com/user-attachments/assets/b915564a-7034-47f3-9140-33f7f0864b8e" />
+<img width="862" height="529" alt="изображение" src="https://github.com/user-attachments/assets/288044ae-4fba-4976-bc33-16aa01cf4c9f" />
 
 ---
 
@@ -117,6 +131,10 @@
 [SQL код](./Level1/task7.sql)
 
 ##### Результат:
+<img width="506" height="448" alt="изображение" src="https://github.com/user-attachments/assets/4a2109a4-601f-4cac-bd73-66cb62a302ea" />
+<img width="676" height="100" alt="изображение" src="https://github.com/user-attachments/assets/8537d879-7171-456e-a299-1f49357aa204" />
+<img width="509" height="130" alt="изображение" src="https://github.com/user-attachments/assets/9d4859f6-6a0d-42f4-9522-e7b991e63665" />
+<img width="1099" height="75" alt="изображение" src="https://github.com/user-attachments/assets/494d480a-b553-4cfd-a649-0795994823fd" />
 
 ---
 ### Задание 8.
@@ -128,6 +146,7 @@
 [SQL код](./Level1/task8.sql)
 
 ##### Результат:
+<img width="813" height="528" alt="изображение" src="https://github.com/user-attachments/assets/e6c075b2-aa2a-4d11-b67b-097f309c4d64" />
 
 ---
 
@@ -140,6 +159,7 @@
 [SQL код](./Level1/task9.sql)
 
 ##### Результат:
+<img width="1093" height="529" alt="изображение" src="https://github.com/user-attachments/assets/4d94ac83-5b41-4556-bc03-55746bf47afc" />
 
 ---
 
@@ -156,6 +176,10 @@
 [SQL код](./Level2/task10.sql)
 
 ##### Результат:
+<img width="681" height="102" alt="изображение" src="https://github.com/user-attachments/assets/d69a5fe7-1057-4ba9-b96e-7a52bdf06691" />
+<img width="1102" height="75" alt="изображение" src="https://github.com/user-attachments/assets/1a23c989-dd35-43ea-8f05-d84597c6b6bc" />
+<img width="514" height="102" alt="изображение" src="https://github.com/user-attachments/assets/b51fe51e-0f51-47e6-b38d-0459ecafb6eb" />
+<img width="656" height="124" alt="изображение" src="https://github.com/user-attachments/assets/8a7b3bcf-5db8-4574-998d-bff10247dcb4" />
 
 ---
 
@@ -172,6 +196,10 @@
 [SQL код](./Level2/task11.sql)
 
 ##### Результат:
+<img width="350" height="77" alt="изображение" src="https://github.com/user-attachments/assets/ea88051b-e669-4f6a-83e9-fe4a344f11fa" />
+<img width="340" height="132" alt="изображение" src="https://github.com/user-attachments/assets/137f9698-c9ce-4afe-9dac-5fe823c30188" />
+<img width="519" height="129" alt="изображение" src="https://github.com/user-attachments/assets/64ffd021-8b8a-44ea-a27f-dea8de2de886" />
+<img width="629" height="443" alt="изображение" src="https://github.com/user-attachments/assets/bc150ae4-ea81-4d48-994d-67011c0eb080" />
 
 ---
 
@@ -184,6 +212,7 @@
 [SQL код](./Level2/task12.sql)
 
 ##### Результат:
+<img width="248" height="179" alt="изображение" src="https://github.com/user-attachments/assets/06f3b832-0399-45d8-a921-87cf42311971" />
 
 ---
 
@@ -200,6 +229,10 @@
 [SQL код](./Level2/task13.sql)
 
 ##### Результат:
+<img width="340" height="130" alt="изображение" src="https://github.com/user-attachments/assets/4b257115-a2eb-402e-8f3e-9005db6ba117" />
+<img width="336" height="111" alt="изображение" src="https://github.com/user-attachments/assets/4fdac673-1293-41a9-a3b6-2aa42a6293d7" />
+<img width="501" height="113" alt="изображение" src="https://github.com/user-attachments/assets/8ef0a3c8-fb6a-4e12-9134-a0b2dfefc23b" />
+<img width="451" height="112" alt="изображение" src="https://github.com/user-attachments/assets/236bcea3-24c5-4508-8790-ab3a2fd96c82" />
 
 ---
 
@@ -216,6 +249,10 @@
 [SQL код](./Level2/task14.sql)
  
 ##### Результат:
+<img width="301" height="70" alt="изображение" src="https://github.com/user-attachments/assets/c42548f6-da6e-49c2-9f8a-dc43102880ed" />
+<img width="629" height="75" alt="изображение" src="https://github.com/user-attachments/assets/8d9828ea-6d88-47bd-9998-072aee318a8c" />
+<img width="686" height="132" alt="изображение" src="https://github.com/user-attachments/assets/71bf7026-16b2-4139-9329-b6f4e6c22768" />
+<img width="781" height="101" alt="изображение" src="https://github.com/user-attachments/assets/da860a5f-09c7-44fa-9ad4-ddf13ac94cc7" />
 
 ---
 
@@ -232,3 +269,9 @@
 [SQL код](./Level2/task15.sql)
 
 ##### Результат:
+<img width="603" height="211" alt="изображение" src="https://github.com/user-attachments/assets/9f139bad-119a-4f6e-98a7-3afd2ddfa561" />
+<img width="315" height="74" alt="изображение" src="https://github.com/user-attachments/assets/95cdf22b-e005-4e7b-bf4c-1cc327dc13f4" />
+<img width="1000" height="469" alt="изображение" src="https://github.com/user-attachments/assets/30803f2c-2fa6-44a9-bcf7-7d46e416468f" />
+<img width="901" height="109" alt="изображение" src="https://github.com/user-attachments/assets/0c985f71-a150-42d0-8ec2-c75700cc25d7" />
+
+
