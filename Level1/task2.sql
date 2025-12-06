@@ -1,4 +1,3 @@
-
 -- Задание 2
 INSERT INTO gardener (id, last_name, association, discount) VALUES
 (1, 'Логовой', 'Радостное', 3.00),
