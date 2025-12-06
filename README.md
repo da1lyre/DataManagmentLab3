@@ -1,4 +1,4 @@
-<img width="223" height="99" alt="изображение" src="https://github.com/user-attachments/assets/748381bf-4ddd-4b34-b744-59eb81b53552" /><img width="624" height="218" alt="изображение" src="https://github.com/user-attachments/assets/1a67098c-e972-4d18-beb2-4fb7026edbee" /># УД Лабораторная работа 3
+# УД Лабораторная работа 3
 
 ## Описание схемы БД
 БД представлена 4-мя таблицами:
