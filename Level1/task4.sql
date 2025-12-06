@@ -1,4 +1,3 @@
-
 -- Задание 4
 SELECT DISTINCT association FROM gardener WHERE association IS NOT NULL
 UNION
