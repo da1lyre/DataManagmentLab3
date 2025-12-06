@@ -1,4 +1,3 @@
-
 -- Задание 3
 SELECT id, last_name, association, discount FROM gardener;
 
