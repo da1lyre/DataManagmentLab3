@@ -60,13 +60,13 @@
 
 ##### Результат:
 Запрос 1
-- <img width="631" height="188" alt="изображение" src="https://github.com/user-attachments/assets/5e844cc0-d305-40c2-b316-a68d6d1e693b" />
+- <img width="655" height="178" alt="изображение" src="https://github.com/user-attachments/assets/7cd68a70-2084-487e-8ea5-f3bdad5d37f6" />
 Запрос 2
-- <img width="624" height="218" alt="изображение" src="https://github.com/user-attachments/assets/7691cd1c-e7b7-4461-8234-499e1300af2c" />
+- <img width="675" height="208" alt="изображение" src="https://github.com/user-attachments/assets/51c37cc5-444a-46b8-b29e-977be1dc0a23" />
 Запрос 3
-- <img width="756" height="241" alt="изображение" src="https://github.com/user-attachments/assets/ad4a6351-c9af-4440-b5f5-d60cfedb821e" />
+- <img width="807" height="238" alt="изображение" src="https://github.com/user-attachments/assets/4ff69b54-a9fd-4f00-9b93-191b7d62792c" />
 Запрос 4
-- <img width="809" height="529" alt="изображение" src="https://github.com/user-attachments/assets/4a8d99d0-a0f1-4955-9f01-96ef175d5f04" />
+- <img width="849" height="526" alt="изображение" src="https://github.com/user-attachments/assets/be4f20d9-e2be-44f0-835a-585cdd6a0157" />
 
 ---
 
