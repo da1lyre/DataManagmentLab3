@@ -25,21 +25,6 @@ WHERE plants.id = purchase.plant_id
 ORDER BY purchase.quantity;
 
 SELECT 
-    plants.variety AS "Название растения",
-    nursery.name AS "Питомник",
-    purchase.quantity AS "Купленное количество",
-    purchase.total_cost AS "Итоговая стоимость",
-    gardener.association AS "Товарищество садовода",
-    plants.where_from AS "Поставщик растений"
-FROM purchase
-JOIN plants ON purchase.plant_id = plants.id
-JOIN gardener ON purchase.gardener_id = gardener.id
-JOIN nursery ON purchase.nursery_id = nursery.id
-WHERE gardener.association = plants.where_from
-    AND purchase.quantity IN (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
-ORDER BY purchase.total_cost ASC;
-
-SELECT 
     last_name AS "Фамилия"
 FROM gardener
 WHERE id NOT IN (
