@@ -9,7 +9,7 @@ WHERE association IN ('Радостное', 'Дальнее');
 
 SELECT variety, price_rub
 FROM plants
-WHERE price_rub > 30000.00 OR id IN (
+WHERE price_rub > 30000 OR id IN (
    SELECT DISTINCT plant_id
    FROM purchase
    JOIN nursery ON purchase.nursery_id = nursery.id
