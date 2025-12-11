@@ -5,9 +5,12 @@ SELECT DISTINCT
     purchase.purchase_date
 FROM purchase
 JOIN gardener ON purchase.gardener_id = gardener.id
-JOIN nursery ON purchase.nursery_id = nursery.id
-WHERE gardener.association = nursery.association
-  AND purchase.purchase_date >= '2024-03-01'
+WHERE purchase.nursery_id IN (
+    SELECT id 
+    FROM nursery 
+    WHERE association = gardener.association
+)
+AND purchase.purchase_date >= '2024-03-01'
 ORDER BY gardener.last_name, purchase.purchase_date;
 
 SELECT 
