@@ -193,13 +193,13 @@
 
 ##### Результат:
 Запрос 1
-- <img width="681" height="102" alt="изображение" src="https://github.com/user-attachments/assets/d69a5fe7-1057-4ba9-b96e-7a52bdf06691" />
+- <img width="490" height="102" alt="изображение" src="https://github.com/user-attachments/assets/2a3738ba-f808-40bc-8eae-37e3bef19dad" />
 Запрос 2
 - <img width="1102" height="75" alt="изображение" src="https://github.com/user-attachments/assets/1a23c989-dd35-43ea-8f05-d84597c6b6bc" />
 Запрос 3
-- <img width="514" height="102" alt="изображение" src="https://github.com/user-attachments/assets/b51fe51e-0f51-47e6-b38d-0459ecafb6eb" />
+- <img width="224" height="154" alt="изображение" src="https://github.com/user-attachments/assets/ef0d6b99-ea4c-4977-a654-404cdf695321" />
 Запрос 4
-- <img width="656" height="124" alt="изображение" src="https://github.com/user-attachments/assets/8a7b3bcf-5db8-4574-998d-bff10247dcb4" />
+- <img width="216" height="135" alt="изображение" src="https://github.com/user-attachments/assets/f4f391cf-8e30-4d90-9690-6ca16a63be20" />
 
 ---
 
@@ -219,11 +219,11 @@
 Запрос 1
 - <img width="350" height="77" alt="изображение" src="https://github.com/user-attachments/assets/ea88051b-e669-4f6a-83e9-fe4a344f11fa" />
 Запрос 2
-- <img width="340" height="132" alt="изображение" src="https://github.com/user-attachments/assets/137f9698-c9ce-4afe-9dac-5fe823c30188" />
+- <img width="329" height="150" alt="изображение" src="https://github.com/user-attachments/assets/5d907e01-1589-4868-96f1-6b89717e5627" />
 Запрос 3
 - <img width="519" height="129" alt="изображение" src="https://github.com/user-attachments/assets/64ffd021-8b8a-44ea-a27f-dea8de2de886" />
 Запрос 4
-- <img width="629" height="443" alt="изображение" src="https://github.com/user-attachments/assets/bc150ae4-ea81-4d48-994d-67011c0eb080" />
+- <img width="626" height="437" alt="изображение" src="https://github.com/user-attachments/assets/982c1e19-32cb-46ba-b17e-28be4035e989" />
 
 ---
 
@@ -254,13 +254,14 @@
 
 ##### Результат:
 Запрос 1
-- <img width="340" height="130" alt="изображение" src="https://github.com/user-attachments/assets/4b257115-a2eb-402e-8f3e-9005db6ba117" />
+- <img width="222" height="132" alt="изображение" src="https://github.com/user-attachments/assets/56af27e6-3f5c-49bf-aad6-a5b548def280" />
 Запрос 2
-- <img width="336" height="111" alt="изображение" src="https://github.com/user-attachments/assets/4fdac673-1293-41a9-a3b6-2aa42a6293d7" />
+- <img width="215" height="242" alt="изображение" src="https://github.com/user-attachments/assets/a8ca2163-6ead-404f-85ef-e463ab92e98c" />
 Запрос 3
-- <img width="501" height="113" alt="изображение" src="https://github.com/user-attachments/assets/8ef0a3c8-fb6a-4e12-9134-a0b2dfefc23b" />
+- <img width="218" height="112" alt="изображение" src="https://github.com/user-attachments/assets/30692ed6-07c6-4d21-9e37-10b12c405645" />
 Запрос 4
-- <img width="451" height="112" alt="изображение" src="https://github.com/user-attachments/assets/236bcea3-24c5-4508-8790-ab3a2fd96c82" />
+- <img width="341" height="116" alt="изображение" src="https://github.com/user-attachments/assets/e53aa7cd-7638-410e-9bdf-0eabc580b7ec" />
+
 
 ---
 
@@ -282,7 +283,7 @@
 Запрос 2
 - <img width="629" height="75" alt="изображение" src="https://github.com/user-attachments/assets/8d9828ea-6d88-47bd-9998-072aee318a8c" />
 Запрос 3
-- <img width="686" height="132" alt="изображение" src="https://github.com/user-attachments/assets/71bf7026-16b2-4139-9329-b6f4e6c22768" />
+- <img width="690" height="187" alt="изображение" src="https://github.com/user-attachments/assets/bb344fb8-85e2-4467-88a4-10a4e6122589" />
 Запрос 4
 - <img width="781" height="101" alt="изображение" src="https://github.com/user-attachments/assets/da860a5f-09c7-44fa-9ad4-ddf13ac94cc7" />
 
