@@ -60,13 +60,13 @@
 
 ##### Результат:
 Запрос 1
-- <img width="631" height="188" alt="изображение" src="https://github.com/user-attachments/assets/5e844cc0-d305-40c2-b316-a68d6d1e693b" /><br>
+- <img width="631" height="188" alt="изображение" src="https://github.com/user-attachments/assets/5e844cc0-d305-40c2-b316-a68d6d1e693b" />
 Запрос 2
-- <img width="624" height="218" alt="изображение" src="https://github.com/user-attachments/assets/7691cd1c-e7b7-4461-8234-499e1300af2c" /><br>
+- <img width="624" height="218" alt="изображение" src="https://github.com/user-attachments/assets/7691cd1c-e7b7-4461-8234-499e1300af2c" />
 Запрос 3
-- <img width="750" height="235" alt="изображение" src="https://github.com/user-attachments/assets/32857f35-7cac-4df1-b84b-3e9273b5b1ed" /><br>
+- <img width="756" height="241" alt="изображение" src="https://github.com/user-attachments/assets/ad4a6351-c9af-4440-b5f5-d60cfedb821e" />
 Запрос 4
-- <img width="809" height="529" alt="изображение" src="https://github.com/user-attachments/assets/4a8d99d0-a0f1-4955-9f01-96ef175d5f04" /><br>
+- <img width="809" height="529" alt="изображение" src="https://github.com/user-attachments/assets/4a8d99d0-a0f1-4955-9f01-96ef175d5f04" />
 
 ---
 
