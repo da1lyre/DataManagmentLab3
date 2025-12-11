@@ -1,13 +1,18 @@
 -- Задание 5
-SELECT last_name, discount
+SELECT 
+    last_name AS "Фамилия", 
+    discount AS "Льгота"
 FROM gardener
 WHERE association = 'Урожай';
 
-SELECT last_name
+SELECT 
+    last_name AS "Фамилия"
 FROM gardener
 WHERE association IN ('Радостное', 'Дальнее');
 
-SELECT variety, price_rub
+SELECT 
+    variety AS "Сорт", 
+    price_rub AS "Цена, руб"
 FROM plants
 WHERE price_rub > 30000 OR id IN (
    SELECT DISTINCT plant_id
@@ -15,5 +20,3 @@ WHERE price_rub > 30000 OR id IN (
    JOIN nursery ON purchase.nursery_id = nursery.id
    WHERE nursery.association = 'Мичуринское'
 );
-
-
