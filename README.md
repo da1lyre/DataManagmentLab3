@@ -223,7 +223,7 @@
 Запрос 3
 - <img width="519" height="129" alt="изображение" src="https://github.com/user-attachments/assets/64ffd021-8b8a-44ea-a27f-dea8de2de886" />
 Запрос 4
-- <img width="626" height="437" alt="изображение" src="https://github.com/user-attachments/assets/982c1e19-32cb-46ba-b17e-28be4035e989" />
+- <img width="500" height="439" alt="изображение" src="https://github.com/user-attachments/assets/42c36815-90e8-4dec-b557-5990eb16cf9d" />
 
 ---
 
