@@ -1,20 +1,28 @@
 -- Задание 10
-SELECT 
-    gardener.last_name AS "Фамилия садовода",
+SELECT DISTINCT
+    gardener.last_name AS "Фамилия",
     gardener.association AS "Товарищество",
-    purchase.purchase_date AS "Дата покупки",
-    purchase.register_number AS "Номер ведомости"
-FROM purchase
-JOIN gardener ON purchase.gardener_id = gardener.id
-JOIN nursery ON purchase.nursery_id = nursery.id
-WHERE gardener.association = nursery.association
-    AND purchase.purchase_date >= DATE '2024-03-01'
-    AND gardener.id IN (
-        SELECT DISTINCT gardener_id 
-        FROM purchase 
-        WHERE total_cost >= 60000
-    )
-ORDER BY purchase.purchase_date, gardener.last_name;
+    purchase.purchase_date AS "Дата"
+FROM gardener, purchase, nursery
+WHERE gardener.id = purchase.gardener_id
+  AND purchase.nursery_id = nursery.id
+  AND gardener.association = nursery.association
+  AND purchase.purchase_date >= '2024-03-01'
+ORDER BY gardener.last_name, purchase.purchase_date;
+
+SELECT 
+    plants.variety AS "Название",
+    nursery.name AS "Питомник",
+    purchase.quantity AS "Количество"
+FROM plants, purchase, nursery
+WHERE plants.id = purchase.plant_id
+  AND purchase.nursery_id = nursery.id
+  AND purchase.gardener_id IN (
+      SELECT id 
+      FROM gardener 
+      WHERE association = plants.where_from
+  )
+ORDER BY purchase.quantity;
 
 SELECT 
     plants.variety AS "Название растения",
@@ -32,26 +40,29 @@ WHERE gardener.association = plants.where_from
 ORDER BY purchase.total_cost ASC;
 
 SELECT 
-    gardener.id,
-    gardener.last_name AS "Фамилия садовода",
-    gardener.association AS "Товарищество садовода"
+    last_name AS "Фамилия"
 FROM gardener
-WHERE gardener.id NOT IN (
+WHERE id NOT IN (
     SELECT DISTINCT purchase.gardener_id
     FROM purchase
-    JOIN nursery ON purchase.nursery_id = nursery.id
-    WHERE nursery.association = 'Урожай'
+    WHERE purchase.nursery_id IN (
+        SELECT id 
+        FROM nursery 
+        WHERE association = 'Мичуринское'
+    )
 )
-ORDER BY gardener.last_name;
+ORDER BY last_name;
 
-SELECT DISTINCT
-    gardener.id,
-    gardener.last_name AS "Фамилия садовода",
-    gardener.association AS "Товарищество",
-    plants.variety AS "Название растения"
+SELECT 
+    last_name AS "Фамилия"
 FROM gardener
-JOIN purchase ON gardener.id = purchase.gardener_id
-JOIN plants ON purchase.plant_id = plants.id
-WHERE plants.variety = 'Вишня'
-ORDER BY gardener.last_name;
-
+WHERE id IN (
+    SELECT DISTINCT purchase.gardener_id
+    FROM purchase
+    WHERE purchase.plant_id IN (
+        SELECT id 
+        FROM plants 
+        WHERE variety = 'Вишня'
+    )
+)
+ORDER BY last_name;
