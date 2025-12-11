@@ -23,12 +23,7 @@ FROM purchase
 JOIN gardener ON purchase.gardener_id = gardener.id
 GROUP BY gardener.id, gardener.last_name, gardener.association
 HAVING SUM(purchase.total_cost) > (
-    SELECT AVG(total_sum)
-    FROM (
-        SELECT SUM(total_cost) as total_sum
-        FROM purchase
-        GROUP BY gardener_id
-    ) as gardener_totals
+    SELECT AVG(total_cost) FROM purchase
 );
 
 SELECT 
